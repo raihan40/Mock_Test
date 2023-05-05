@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="script.js">
+    </script>
+    <style>
+        #main {
+            border: 2px solid #1b1b1b;
+            padding: 10px;
+            margin: auto;
+            margin-top: 20px;
+            width: 400px;
+            height: 400px;
+            background-color: aquamarine;
+        }
+        
+        h1,
+        h3 {
+            text-align: center;
+            margin-top: 30px;
+        }
+        
+        #countdown,
+        #question {
+            display: inline-block;
+        }
+        
+        #countdown {
+            float: right;
+            border: 2px solid #1b1b1b;
+            background-color: white;
+        }
+        
+        #question {
+            width: 300px;
+        }
+    </style>
+</head>
+
+<body onload="loadxml()">
+    <h1>APPTITUDE_TEST</h1>
+    <br>
+    <h3>10 Questions At 15 Minutes</h3>
+    <div id="main">
+        <p id="question"></p>
+        <p id="countdown">15.00</p>
+        <br>
+        <input type="radio" id="option1" name="test">
+        <label for="option1" id="l1"></label><br>
+
+        <input type="radio" id="option2" name="test">
+        <label for="option2" id="l2"></label><br>
+
+        <input type="radio" id="option3" name="test">
+        <label for="option3" id="l3"></label><br>
+
+        <input type="radio" id="option4" name="test">
+        <label for="option4" id="l4"></label><br><br>
+        <p id="correct_ans"></p>
+
+        <br>
+        <button id="next" onclick="nextdisplay()">NEXT</button>
+        <button id="prev" onclick="prevdisplay()">PREVIOUS</button>
+        <button id="submit" onclick="submit()">SUBMIT</button>
+        <p id="result"></p>
+
+    </div>
+</body>
+
+</html>

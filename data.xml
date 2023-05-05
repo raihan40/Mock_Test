@@ -1,0 +1,74 @@
+<quiz>
+    <items>
+    <item>
+        <question> A company offered its 350 employees a bonus of Rs 10 to each male and Rs 8.15 to each female. All the females accepted but a certain percentage of males refused to accept. The total bonus paid was independent of the number of males. What was the total amount paid to the females (in rupees)?</question>
+        <answer correct ="n">1672.50</answer>
+        <answer correct="y">1222.50</answer>
+        <answer correct ="n">2852.50</answer>
+        <answer correct ="n">None of these</answer>
+      </item>	
+       <item>
+        <question>Ram bought ‘a’ flowers for ‘b’ rupees, where ‘a’ and ‘b’ are integers. If he had bought 10 more flowers he would have got all for Rs. 2 and saved 80 paisa a dozen. What are the respective vales of ‘a’ and ‘b’?</question>
+        <answer correct ="y">5,1</answer>
+        <answer correct="n">4,2</answer>
+        <answer correct ="n">3,2</answer>
+        <answer correct ="n">6,1</answer>
+      </item>
+       <item>
+        <question>The integers 49966 and 52231 when divided by a three digit number ‘n’ give the same remainder. What is the value of n?</question>
+        <answer correct ="n">367</answer>
+        <answer correct="y">453</answer>
+        <answer correct ="n">462</answer>
+        <answer correct ="n">298</answer>
+      </item>
+       <item>
+        <question>The HCF of two numbers is 21 and their LCM is 4641. If one of the numbers is between 200 and 300, find the other number.</question>
+        <answer correct ="n">221</answer>
+        <answer correct="n">273</answer>
+        <answer correct ="y">357</answer>
+        <answer correct ="n">441</answer>
+      </item>	
+        <item>
+        <question>What is the least number of digits in the number formed from only zeroes and ones such that the number is divisible by 225?</question>
+        <answer correct ="n">4</answer>
+        <answer correct="n">9</answer>
+        <answer correct ="y">11</answer>
+        <answer correct ="n">7</answer>
+      </item>
+       <item>
+        <question>A train running at the speed of 60 km/hr crosses a pole in 9 seconds. What is the length of the train?</question>
+        <answer correct ="n">120 meters</answer>
+        <answer correct="n">180 meters</answer>
+        <answer correct ="n">324 meters</answer>
+        <answer correct ="y">150 meters</answer>
+      </item>	
+       <item>
+        <question>A and B invest in a business in the ratio 3 : 2. If 5% of the total profit goes to charity and A's share is Rs. 855, the total profit is:</question>
+        <answer correct ="n">Rs. 1425</answer>
+        <answer correct="n">Rs. 1500</answer>
+        <answer correct ="n">Rs. 1537.50</answer>
+        <answer correct ="y">Rs. 1576</answer>
+      </item>
+        <item>
+        <question>A batsman scored 110 runs which included 3 boundaries and 8 sixes. What percent of his total score did he make by running between the wickets?</question>
+        <answer correct ="n">45%</answer>
+        <answer correct="y">45.45%</answer>
+        <answer correct ="n">54.54%</answer>
+        <answer correct ="n">55%</answer>
+      </item>	
+       <item>
+        <question>The ratio between the length and the breadth of a rectangular park is 3 : 2. If a man cycling along the boundary of the park at the speed of 12 km/hr completes one round in 8 minutes, then the area of the park (in sq. m) is:</question>
+        <answer correct ="n">15360</answer>
+        <answer correct="y">153600</answer>
+        <answer correct ="n">30720</answer>
+        <answer correct ="n">307200</answer>
+      </item>
+       <item>
+        <question>Three pipes A, B and C can fill a tank from empty to full in 30 minutes, 20 minutes, and 10 minutes respectively. When the tank is empty, all the three pipes are opened. A, B and C discharge chemical solutions P,Q and R respectively. What is the proportion of the solution R in the liquid in the tank after 3 minutes?</question>
+        <answer correct ="n">5/11</answer>
+        <answer correct="y">6/11</answer>
+        <answer correct ="n">7/11</answer>
+        <answer correct ="n">8/11</answer>
+      </item>												
+    </items>
+</quiz>
